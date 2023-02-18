@@ -29,7 +29,7 @@
     "@saucelabs/theme-github-codeblock": "^0.1.1",
     "@superset-ui/style": "^0.14.23",
     "@svgr/webpack": "^5.5.0",
-    "antd": "^4.19.3",
+    "antd": "^4.24.7",
     "buffer": "^6.0.3",
     "clsx": "^1.1.1",
     "file-loader": "^6.2.0",
