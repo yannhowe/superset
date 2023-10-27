@@ -66,7 +66,7 @@ cron-descriptor==1.2.24
     # via apache-superset
 croniter==1.0.15
     # via apache-superset
-cryptography==3.4.7
+cryptography==41.0.5
     # via apache-superset
 deprecation==2.1.0
     # via apache-superset
@@ -290,7 +290,7 @@ wcwidth==0.2.5
     # via prompt-toolkit
 webencodings==0.5.1
     # via bleach
-werkzeug==2.0.3
+werkzeug==3.0.1
     # via
     #   flask
     #   flask-jwt-extended
