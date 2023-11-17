@@ -238,7 +238,7 @@ redis==3.5.3
     # via apache-superset
 sasl==0.3.1
     # via -r requirements/base.in
-selenium==3.141.0
+selenium==4.15.1
     # via apache-superset
 simplejson==3.17.3
     # via apache-superset
