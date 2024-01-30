@@ -7,7 +7,7 @@
 #
 -e file:.
     # via -r requirements/base.in
-aiohttp==3.7.4
+aiohttp==3.9.2
     # via
     #   -r requirements/base.in
     #   slackclient
