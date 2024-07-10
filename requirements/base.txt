@@ -305,7 +305,7 @@ wtforms-json==0.3.3
     # via apache-superset
 yarl==1.6.3
     # via aiohttp
-zipp==3.4.1
+zipp==3.19.1
     # via -r requirements/base.in
 
 # The following packages are considered to be unsafe in a requirements file:
