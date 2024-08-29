@@ -22,7 +22,7 @@ charset-normalizer==2.0.4
     # via requests
 et-xmlfile==1.1.0
     # via openpyxl
-flask-cors==3.0.10
+flask-cors==4.0.1
     # via -r requirements/development.in
 future==0.18.2
     # via pyhive
