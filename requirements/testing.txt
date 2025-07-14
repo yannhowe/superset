@@ -117,7 +117,7 @@ proto-plus==1.19.7
     # via
     #   google-cloud-bigquery
     #   google-cloud-bigquery-storage
-protobuf==3.19.1
+protobuf==4.25.8
     # via
     #   google-api-core
     #   google-cloud-bigquery
@@ -179,3 +179,4 @@ websocket-client==1.2.0
 # The following packages are considered to be unsafe in a requirements file:
 # pip
 # setuptools
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
