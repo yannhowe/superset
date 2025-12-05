@@ -271,7 +271,7 @@ sqlalchemy-utils==0.37.8
     # via
     #   apache-superset
     #   flask-appbuilder
-sqlparse==0.3.0
+sqlparse==0.5.4
     # via apache-superset
 tabulate==0.8.9
     # via apache-superset
@@ -290,7 +290,7 @@ wcwidth==0.2.5
     # via prompt-toolkit
 webencodings==0.5.1
     # via bleach
-werkzeug==2.0.3
+werkzeug==3.1.4
     # via
     #   flask
     #   flask-jwt-extended
