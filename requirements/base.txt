@@ -7,7 +7,7 @@
 #
 -e file:.
     # via -r requirements/base.in
-aiohttp==3.7.4
+aiohttp==3.13.3
     # via
     #   -r requirements/base.in
     #   slackclient
@@ -279,7 +279,7 @@ typing-extensions==3.10.0.0
     # via
     #   aiohttp
     #   apache-superset
-urllib3==1.26.6
+urllib3==2.6.3
     # via selenium
 vine==5.0.0
     # via
@@ -290,7 +290,7 @@ wcwidth==0.2.5
     # via prompt-toolkit
 webencodings==0.5.1
     # via bleach
-werkzeug==2.0.3
+werkzeug==3.1.5
     # via
     #   flask
     #   flask-jwt-extended
